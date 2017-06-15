@@ -7,3 +7,10 @@ body {
   position: relative;
   min-height: 100%;
 }
+
+.div-init{
+	margin-top:50px;
+	text-align:center;
+	min-height:70%;
+	background-color: grey;	
+}
