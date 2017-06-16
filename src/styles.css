@@ -8,9 +8,27 @@ body {
   min-height: 100%;
 }
 
-.div-init{
+.div-init1{
 	margin-top:50px;
 	text-align:center;
 	min-height:70%;
 	background-color: grey;	
+}
+
+.div-init2{
+	
+	text-align:center;
+	min-height:70%;
+	background-color: silver;	
+	margin-top:25px;
+}
+.div-init3{
+	
+	text-align:center;
+	min-height:50px;
+	background-color:white;
+	text-align:center;
+	font-size:large;
+	padding:10px;	
+	margin-top:25px;
 }
