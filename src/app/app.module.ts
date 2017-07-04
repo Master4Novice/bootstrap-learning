@@ -10,6 +10,7 @@ import { BootstrapTableComponent } from './bootstrap-table/bootstrap-table.compo
 import { BootstrapButtonComponent } from './bootstrap-button/bootstrap-button.component';
 import { BootstrapIconsComponent } from './bootstrap-icons/bootstrap-icons.component';
 import { BootstrapDropComponent } from './bootstrap-drop/bootstrap-drop.component';
+import { BootstrapFormComponent } from './bootstrap-form/bootstrap-form.component';
 
 @NgModule({
   declarations: [
@@ -18,7 +19,8 @@ import { BootstrapDropComponent } from './bootstrap-drop/bootstrap-drop.componen
     BootstrapTableComponent,
     BootstrapButtonComponent,
     BootstrapIconsComponent,
-    BootstrapDropComponent
+    BootstrapDropComponent,
+    BootstrapFormComponent
   ],
   imports: [
     BrowserModule,
