@@ -1,3 +1,43 @@
 blockquote{
 	background-color: white;
 }
+
+hr{
+    border-style: solid;
+    border-color: red;
+    border: 0;
+    border-bottom: 1px dashed #ff0080;
+    background: #999;
+}
+h1{
+	margin: 2px;
+	background-color: #ffcccc;	
+}
+h2{
+	margin: 2px;
+	background-color: #ffd7ae;	
+}
+h3{
+	margin: 4px;
+	background-color: #e6e6e6;	
+}
+h4{
+	margin: 4px;
+	background-color: #feeba7;	
+}
+.h55{
+	margin: 4px;
+	background-color: #dbb7ff;	
+}
+.h66{
+	margin: 4px;
+	background-color: #dbb7ff;	
+}
+.div-bootstrap{
+	margin: 0.5px;
+	background-color: #ffffff;
+	position: relative;
+	border: 1px;
+	border-color: black;
+	
+}

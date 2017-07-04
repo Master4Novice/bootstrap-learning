@@ -5,10 +5,20 @@ import { HttpModule } from '@angular/http';
 import {NgbModule} from '@ng-bootstrap/ng-bootstrap';
 
 import { AppComponent } from './app.component';
+import { BootstrapListComponent } from './bootstrap-list/bootstrap-list.component';
+import { BootstrapTableComponent } from './bootstrap-table/bootstrap-table.component';
+import { BootstrapButtonComponent } from './bootstrap-button/bootstrap-button.component';
+import { BootstrapIconsComponent } from './bootstrap-icons/bootstrap-icons.component';
+import { BootstrapDropComponent } from './bootstrap-drop/bootstrap-drop.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    BootstrapListComponent,
+    BootstrapTableComponent,
+    BootstrapButtonComponent,
+    BootstrapIconsComponent,
+    BootstrapDropComponent
   ],
   imports: [
     BrowserModule,
