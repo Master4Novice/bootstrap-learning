@@ -4,9 +4,18 @@
 	position: relative;
 	border: 1px;
 	border-color: black;
+	height: 160px;
 	
 }
-
+.div-bootstrap-drop-divider{
+	margin: 0.5px;
+	background-color: #d2ffd2;
+	position: relative;
+	border: 1px;
+	border-color: black;
+	height: 320px;
+	
+}
 h3{
 	margin: 4px;
 	background-color: #e6e6e6;	
